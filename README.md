@@ -1,4 +1,4 @@
-# Repo base React - Webpack 5, Babel 7 y React Router V6.3
+# Firebase Authentication with email and Google
 
 
 ### `npm start`
